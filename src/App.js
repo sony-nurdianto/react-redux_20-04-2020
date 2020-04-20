@@ -4,11 +4,15 @@ import './App.css';
 
 
 
+
 function App() {
   
 
   return (
-    <div><Appredux/></div>
+    <div>
+      <Appredux/>
+     
+    </div>
   );
 }
 
